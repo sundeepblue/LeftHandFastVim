@@ -9,9 +9,9 @@ Suppose you are a right-handed person. If you use vim intensively, you might not
 
 There are several time-killers:
 1) Switching back and forth between mouse and keyboard
-2) Both Vim's default <leader> key ('/'), and the customized comma key (',') are located at right hand area of keyboard. This forces vimers to use both hands
+2) Both Vim's default leader key ('/'), and the customized comma key (',') are located at right hand area of keyboard. This forces vimers to use both hands
 3) The 'shift' key is not convenient to press
 4) The command prefix ':'
 5) The 'ESC' key is too far away!
 
-The purpose of this project is to librate the right hand, concentrate on the left hand, and boot the editing speed in vim.
+The purpose of this project is to librate the right hand, concentrate on the left hand, and boost the editing speed in vim.
