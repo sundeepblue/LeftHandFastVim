@@ -1,8 +1,6 @@
 " Author: sundeepblue 9/6/2013
 " Github repository: https://github.com/sundeepblue/LeftHandFastVim
 
-" @todo combine with the easymotion, use only the left hand letters and digits.
-" need to config the easymotion
 " @todo use WSAD to move around
 " @todo use t as top
 
