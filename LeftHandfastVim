@@ -42,6 +42,9 @@ map fs :g//<cr>
 " count the total number of matches in the latest search
 nmap <leader>ct :%s///gn<cr>
 
+" go to top of the file
+map t gg
+
 " no need to input ':' manually
 map ` :
 
