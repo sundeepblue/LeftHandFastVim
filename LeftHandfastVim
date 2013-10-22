@@ -29,6 +29,11 @@ cmap 22 @
 " easily select all contents using left-hand
 map fa ggVG
 
+" super convenient and super quick :)
+" first press 'fa', then press 'fd', you can quickly enter command mode to process all lines at once, 
+" without leave left-hand off keyboard
+vmap fd :norm<space>
+
 " left-hand fast quit
 map fq :q<cr>
 
