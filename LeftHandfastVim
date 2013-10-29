@@ -44,6 +44,10 @@ map fww :w!<cr>
 " left-hand list all matches, 'fs' means 'Fast Search list'
 map fs :g//<cr>
 
+" fast move to last and next edit positions
+map ga g;
+map gs g,
+
 " count the total number of matches in the latest search
 nmap <leader>ct :%s///gn<cr>
 
